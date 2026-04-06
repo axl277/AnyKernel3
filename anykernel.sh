@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Hydrogen+ by rio113
+kernel.string=Axlorin Kernel For POCO X3 GT
 do.devicecheck=0
 do.modules=0
 do.systemless=1
