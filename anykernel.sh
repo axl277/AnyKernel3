@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Axlorin Kernel For POCO X3 GT
+kernel.string=Custom Kernel For POCO X3 GT / Redmi Note 10 pro 5G
 do.devicecheck=0
 do.modules=0
 do.systemless=1
